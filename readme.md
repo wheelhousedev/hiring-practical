@@ -7,7 +7,7 @@
 # Getting Started
 
 1. Grab our Test Stack
-2. Clone our Test Stack to Local `git clone`
+2. Clone our Test Stack to Local `git clone git@github.com:wheelhousedev/hiring-practical.git`
 3. Stand-Up Wordpress `docker-compose up`
 4. Get the Name of your Container `docker ps`
 5. Copy Child Theme to Docker `cp  YOUR-PATH/wp-content/themes/twentytwentyone-childtwentytwentyone-child  YOUR-CONTAINER-NAME:/bitnami/wordpress/wp-content/themes/.`
