@@ -10,6 +10,6 @@
 6. Copy Child Theme to Docker `docker cp  YOUR-PATH/wp-content/themes/twentytwentyone-childtwentytwentyone-child  YOUR-CONTAINER-NAME:/bitnami/wordpress/wp-content/themes/.`
 7. Enable your new Child Theme in the Admin:  [http://localhost/wp-admin](http://localhost/wp-admin)
     - Username: candidate
-    - Password: welcome@Candidate!
+    - Password: ThankYouFor@YourInterest!
 8. Navigate to [https://localhost/](https://localhost/) and follow the remaining instructions!
 9. Once your complete reach out for a review with Dustin!
