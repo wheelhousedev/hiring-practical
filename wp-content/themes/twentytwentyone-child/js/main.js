@@ -35,7 +35,7 @@ Show Your Test Button and get the Details on the Events we Want to fire.
 var testCLI = {
 	help: function(){
 		console.log(`%c
-Please create a Google Account and setup a clean GA and GTM environment, copy your IDs for use in the event steps below:
+Please create a Google Account (If you don't have one) and setup a clean GA and GTM environment, copy your IDs for use in the event steps below:
 testCLI.showButton(); //Shows the button for Event 1
 testCLI.eventOneDetails(); //Instructions for Event 1
 testCLI.eventTwoDetails(); //Instructions for Event 2
