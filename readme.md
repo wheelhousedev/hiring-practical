@@ -8,8 +8,9 @@
 4. Stand-Up Wordpress `docker-compose up`
 5. Get the Name of your Container `docker ps`
 6. Copy Child Theme to Docker `docker cp  YOUR-PATH/wp-content/themes/twentytwentyone-child YOUR-CONTAINER-NAME:/bitnami/wordpress/wp-content/themes/.`
-7. Enable your new Child Theme in the Admin:  [http://localhost/wp-admin](http://localhost/wp-admin)
+7. Use the above command to copy local files to the docker as you edit them. Or review Docker documentation to setup a file-system sync.
+8. Enable your new Child Theme in the Admin:  [http://localhost/wp-admin](http://localhost/wp-admin)
     - Username: candidate
     - Password: ThankYouFor@YourInterest!
-8. Navigate to [https://localhost/](https://localhost/) and follow the remaining instructions!
-9. Once your complete reach out for a review with Dustin!
+9. Navigate to [https://localhost/](https://localhost/) and follow the remaining instructions!
+10. Once your complete reach out for a review with Dustin!
