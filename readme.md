@@ -13,6 +13,6 @@
     - Username: candidate
     - Password: ThankYouFor@YourInterest!
 9. Navigate to [https://localhost/](https://localhost/) and follow the remaining instructions!
-10. WHen you find the Analytics instructions: Please create your own GTM and GA container for the exercise.
+10. When you find the Analytics instructions: Please create your own GTM and GA container for the exercise.
 11. Please review your final product placing yourself in the role of the client. Is there anything you would improve?
 12. Once your complete reach out for a review with Dustin!
