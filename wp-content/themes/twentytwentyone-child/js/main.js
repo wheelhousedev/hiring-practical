@@ -1,7 +1,7 @@
 /* Wheelhouse Analytics Test
    Author: Dustin Moore
    Created: May 25, 2017
-   Last Updated: May 21, 2021
+   Last Updated: Apr 6, 2022
 */
 
 console.log(`%c
@@ -22,8 +22,7 @@ to add a GA tag to the GTM container on this page.
 We then would like you to setup 2 events; one on our modal launch
 button (more on that in a moment), and one on the form that pops up.
 
-You should have recieved an invite via email to the Test GTM container,
-if not, please email the person you sent you this test.
+You will need to create a GTM Container and a Google Analytics Property.
 
 To continue please use the "testCLI" object methods in your console to get the GA ID,
 Show Your Test Button and get the Details on the Events we Want to fire. 
@@ -43,8 +42,7 @@ testCLI.eventTwoDetails(); //Instructions for Event 2
 	},
 	getGAID: function(){
 		console.log(`%c
-Please Add a GA Tag to GTM with the following ID:
-UA-54233301-11
+Please Add a GA Tag to GTM with the ID from your created GA Property.
 `, "font-family:monospace");
 	},
 	showButton: function(){
